@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(120deg, #02022a, #2ba5ce);
+    overflow: hidden;
+    font-family: cursive;
+    height: 100vh;
+}
+
+h1{
+    padding: 15px 10px;
+}
+
+.all {
+    position: absolute;
+    left: 50%;
+    top: 15%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    height: auto;
+    background: white;
+    border-radius: 15px;
+}
